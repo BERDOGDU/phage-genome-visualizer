@@ -71,7 +71,8 @@ For a publication, preserve the exact input annotation file or CSV used to gener
 
 ## Development note
 
-This tool was developed by **Berna Erdoğdu** with assistance from OpenAI ChatGPT for code generation and refinement. The author reviewed, tested, and adapted the code for bacteriophage genome visualization.
+This tool was developed by Berna Erdoğdu with assistance from OpenAI ChatGPT for code generation and refinement. The author reviewed and adapted the code for bacteriophage genome visualization and is responsible for its validation and scientific use.
+
 
 ## License
 
