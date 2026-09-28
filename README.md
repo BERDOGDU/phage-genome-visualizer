@@ -59,6 +59,8 @@ A complete example dataset is available in `example_data/ES-Kpn13_example.csv`.
 
 Download the desired nucleotide record from NCBI in **GenBank format** and load the resulting `.gb` or `.gbk` file into the tool. The parser reads CDS coordinates, strand orientation, locus tags, protein IDs, and product annotations when available.
 
+Only features annotated as CDS in the GenBank record are included in the genome map and CDS count. Non-CDS features, such as misc_feature, are reported by the tool but are excluded from the CDS map.
+
 GenBank does not provide a universal standardized field corresponding to the functional module categories used in every phage study. Therefore, functional categories are **editable by the user**. The optional category-suggestion function is based only on simple product-name keywords and should not be treated as an automated functional annotation method.
 
 ## Example output
