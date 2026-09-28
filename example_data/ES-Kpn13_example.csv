@@ -30,9 +30,9 @@ start,end,strand,locus_tag,protein_id,product,function
 18461,18724,-1,ESKpn_CDS0030,YCJ05077.1,hypothetical protein,Unknown function
 18832,19314,-1,ESKpn_CDS0031,YCJ05078.1,hypothetical protein,Unknown function
 19701,19919,1,ESKpn_CDS0032,YCJ05079.1,hypothetical protein,Unknown function
-19935,20033,1,ESKpn_CDS0034,YCJ05080.1,hypothetical protein,Unknown function
+19935,20033,1,ESKpn_CDS0033,YCJ05080.1,hypothetical protein,Unknown function
 20194,20778,1,ESKpn_CDS0034,YCJ05081.1,hypothetical protein,Unknown function
-21040,21153,1,ESKpn_CDS0036,YCJ05082.1,hypothetical protein,Unknown function
+21040,21153,1,ESKpn_CDS0035,YCJ05082.1,hypothetical protein,Unknown function
 21717,21941,1,ESKpn_CDS0036,YCJ05083.1,hypothetical protein,Unknown function
 22010,22222,1,ESKpn_CDS0037,YCJ05084.1,transcriptional regulator,transcription regulation
 22233,22553,1,ESKpn_CDS0038,YCJ05085.1,hypothetical protein,Unknown function
@@ -63,7 +63,7 @@ start,end,strand,locus_tag,protein_id,product,function
 36050,36556,1,ESKpn_CDS0063,YCJ05110.1,tail terminator,connector
 36650,37306,1,ESKpn_CDS0064,YCJ05111.1,major tail protein,tail
 37383,37709,1,ESKpn_CDS0065,YCJ05112.1,tail length tape measure protein,tail
-37788,37883,1,ESKpn_CDS0067,YCJ05113.1,hypothetical protein,Unknown function
+37788,37883,1,ESKpn_CDS0066,YCJ05113.1,hypothetical protein,Unknown function
 37856,38023,1,ESKpn_CDS0067,YCJ05114.1,tail length tape measure protein,tail
 38060,41029,1,ESKpn_CDS0068,YCJ05115.1,tail length tape measure protein,tail
 41032,41376,1,ESKpn_CDS0069,YCJ05116.1,minor tail protein,tail
