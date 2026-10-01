@@ -5,10 +5,12 @@ type: software
 authors:
   - family-names: "Erdoğdu"
     given-names: "Berna"
+    orcid: "https://orcid.org/0000-0002-4199-6903"
 repository-code: "https://github.com/BERDOGDU/phage-genome-visualizer"
 url: "https://github.com/BERDOGDU/phage-genome-visualizer"
-version: "0.1.0"
-date-released: "2026-09-28"
+version: "1.0.0"
+date-released: "2026-10-01"
+doi: 10.5281/zenodo.23076231
 license: MIT
 abstract: >-
   A standalone HTML5/JavaScript tool for proportional visualization of
